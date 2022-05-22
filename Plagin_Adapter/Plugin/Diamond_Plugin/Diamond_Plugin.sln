@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond_Plugin", "Diamond_Plugin\Diamond_Plugin.csproj", "{392F6DC1-4B6E-48C2-8EA2-E9CB8EDF3B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392F6DC1-4B6E-48C2-8EA2-E9CB8EDF3B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392F6DC1-4B6E-48C2-8EA2-E9CB8EDF3B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392F6DC1-4B6E-48C2-8EA2-E9CB8EDF3B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392F6DC1-4B6E-48C2-8EA2-E9CB8EDF3B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E69A350-3B1C-48A8-85CF-86DEDFDFD19E}
+	EndGlobalSection
+EndGlobal
